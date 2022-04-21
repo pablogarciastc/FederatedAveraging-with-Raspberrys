@@ -6,8 +6,8 @@ This is a university project, for a Federated Learning solution using an EC2 ins
 
 ```
 FedAVG with RPIs  
-├── models                         # scripts for performing FedAVG
+├── models          # scripts for performing FedAVG
 │   ├── AWS         # scripts for the comm central host
-│   └── RPI             # scripts for the comm clients
-└── data                          # app data as npz 
+│   └── RPI         # scripts for the comm clients
+└── data            # app data as npz 
 ```
